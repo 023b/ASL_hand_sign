@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pillow
+tensorflow>=2.10,<3.0
+keras
+pyenchant
+matplotlib
